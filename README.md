@@ -29,3 +29,4 @@ Applicable to users who want to extract numerical data from heat map pictures, b
 * 为了获得最佳效果，建议使用高分辨率的热图图片。
 * 工具假设 colorbar 是线性的，并且其数值范围是 [0, 1]。
 * 在框选完毕后，按下 "Enter" 键或 "Space" 键确认选择，按 "Esc" 键取消框选。
+* **ps：目前工具正处于开发中，可能会产生多种不稳定的结果**
